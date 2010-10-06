@@ -1,11 +1,11 @@
 <vosao-plugin>
-    <name>register</name>
+    <name>wowarmory</name>
     <title>$register.title</title>
     <version>0.6</version>
     <description>$register.description</description>
     <website>www.vosao.org</website>
     <plugin-config-url>config.html</plugin-config-url>
     <entry-point-class>
-        org.vosao.plugins.register.RegisterEntryPoint
+        org.vosao.plugins.wowarmory.WowArmoryEntryPoint
     </entry-point-class>
 </vosao-plugin>
